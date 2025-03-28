@@ -3,8 +3,8 @@
 ## Prerequisites
 Create accounts for the following:
 * Discord: [https://discord.com/developers/applications/](https://discord.com/developers/applications/)
-* GitHub: [https://github.com/join](https://github.com/join)
-* Heroku: [https://signup.heroku.com/](https://signup.heroku.com/)
+* GitHub: [https://github.com/join](https://github.com/Trickster825/discord-bot-TRHOSTING/settings/pages)
+* Heroku: [https://signup.heroku.com/](https://trickster825.github.io/discord-bot-TRHOSTING/)
 
 ## Creating a Discord application and bot
 Discord Developer Portal: [https://discord.com/developers/applications/](https://discord.com/developers/applications/)
